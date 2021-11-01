@@ -1,5 +1,5 @@
 export function validTime(time: string): boolean {
-
+    return time === "Hello";
 }
 
 // console.log(validTime('13:58'));
